@@ -1,0 +1,87 @@
+FID,Profile_No,Horizon Sequence,State,District,Block,Village,texture,Sand,Silt,Clay,ph,ec,organic_carbon,nitrogen,phosphorus,potassium,texture_score,chemical_health_score,physical_health_score,sss,category
+2,P19,AP,Maharashtra,Akola,Barshitakli,Ghota,Gravely Clay,4.8,27.1,68.1,6.8,0.11,0.97,125.8,17.4,489.6,45,58.54,45,54.48,Needs Improvement
+3,P18,Ap_Bw,Maharashtra,Akola,Barshitakli,Ghota,Gravely Clay,34.9,22.9,42.2,6.9,0.26,1.03,152.5,20.3,108.2,45,67.18,45,60.53,Moderately Sustainable
+4,P33,Ap,Maharashtra,Akola,Barshitakli,Ghota,Gravely Clay,13.8,28.2,58.0,7.6,0.14,0.94,125.6,15.2,319.4,45,70.25,45,62.67,Moderately Sustainable
+5,P30,Ap_Bw_Bss,Maharashtra,Akola,Barshitakli,Ghota,Clay,2.5,24.9,72.6,7.9,0.81,0.82,64.9,17.0,708.1,65,55.08,65,58.06,Needs Improvement
+7,P15,Ap_Bw,Maharashtra,Akola,Barshitakli,Ghota,Gravely Clay,3.1,37.5,59.4,7.5,0.14,2.6,149.3,23.0,758.5,45,66.33,45,59.93,Needs Improvement
+8,P19,AP,Maharashtra,Akola,Barshitakli,Ghota,Gravely Clay,4.8,27.1,68.1,6.8,0.11,0.97,125.8,17.4,489.6,45,58.54,45,54.48,Needs Improvement
+12,P19,AP,Maharashtra,Akola,Barshitakli,Para Bhawani,Gravely Clay,4.8,27.1,68.1,6.8,0.11,0.97,125.8,17.4,489.6,45,58.54,45,54.48,Needs Improvement
+13,P26,Ap_Bw,Maharashtra,Akola,Barshitakli,Para Bhawani,Gravely Clay,28.5,15.2,56.3,7.3,0.12,0.99,122.4,25.0,936.3,45,65.0,45,59.0,Needs Improvement
+14,P19,AP,Maharashtra,Akola,Barshitakli,Para Bhawani,Gravely Clay,4.8,27.1,68.1,6.8,0.11,0.97,125.8,17.4,489.6,45,58.54,45,54.48,Needs Improvement
+15,P19,AP,Maharashtra,Akola,Barshitakli,Para Bhawani,Gravely Clay,4.8,27.1,68.1,6.8,0.11,0.97,125.8,17.4,489.6,45,58.54,45,54.48,Needs Improvement
+16,P19,AP,Maharashtra,Akola,Barshitakli,Para Bhawani,Gravely Clay,4.8,27.1,68.1,6.8,0.11,0.97,125.8,17.4,489.6,45,58.54,45,54.48,Needs Improvement
+17,P19,AP,Maharashtra,Akola,Barshitakli,Para Bhawani,Gravely Clay,4.8,27.1,68.1,6.8,0.11,0.97,125.8,17.4,489.6,45,58.54,45,54.48,Needs Improvement
+18,P1,Ap_BW1_BW2_BW3_BW4,Maharashtra,Akola,Barshitakli,Para Bhawani,Clay,21.5,29.2,49.3,8.3,0.18,1.57,140.0,24.1,458.3,65,59.0,65,60.8,Moderately Sustainable
+19,P1,Ap_BW1_BW2_BW3_BW4,Maharashtra,Akola,Barshitakli,Para Bhawani,Clay,21.5,29.2,49.3,8.3,0.18,1.57,140.0,24.1,458.3,65,59.0,65,60.8,Moderately Sustainable
+20,P19,AP,Maharashtra,Akola,Barshitakli,Para Bhawani,Gravely Clay,4.8,27.1,68.1,6.8,0.11,0.97,125.8,17.4,489.6,45,58.54,45,54.48,Needs Improvement
+21,P2,Ap_Bw,Maharashtra,Akola,Barshitakli,Para Bhawani,Gravely Clay,2.7,23.9,73.4,7.0,0.05,2.47,124.1,8.6,575.6,45,50.0,45,48.5,Needs Improvement
+23,P1,Ap_BW1_BW2_BW3_BW4,Maharashtra,Akola,Barshitakli,Para Bhawani,Clay,21.5,29.2,49.3,8.3,0.18,1.57,140.0,24.1,458.3,65,59.0,65,60.8,Moderately Sustainable
+24,P14,Ap_BC,Maharashtra,Akola,Barshitakli,Para Bhawani,Gravely Clay,1.7,26.0,72.3,6.2,0.06,1.31,70.3,7.3,375.9,45,57.5,45,53.75,Needs Improvement
+25,P11,Ap_BW_Bss1_Bss2_Bss3,Maharashtra,Akola,Barshitakli,Para Bhawani,Clay,3.6,35.0,61.3,8.4,0.09,1.95,132.2,13.8,752.6,65,47.63,65,52.84,Needs Improvement
+26,P1,Ap_BW1_BW2_BW3_BW4,Maharashtra,Akola,Barshitakli,Para Bhawani,Clay,21.5,29.2,49.3,8.3,0.18,1.57,140.0,24.1,458.3,65,59.0,65,60.8,Moderately Sustainable
+27,P1,Ap_BW1_BW2_BW3_BW4,Maharashtra,Akola,Barshitakli,Para Bhawani,Clay,21.5,29.2,49.3,8.3,0.18,1.57,140.0,24.1,458.3,65,59.0,65,60.8,Moderately Sustainable
+30,P33,Ap,Maharashtra,Akola,Barshitakli,Dharagiri,Gravely Clay,13.8,28.2,58.0,7.6,0.14,0.94,125.6,15.2,319.4,45,70.25,45,62.67,Moderately Sustainable
+31,P19,AP,Maharashtra,Akola,Barshitakli,Dharagiri,Gravely Clay,4.8,27.1,68.1,6.8,0.11,0.97,125.8,17.4,489.6,45,58.54,45,54.48,Needs Improvement
+32,P19,AP,Maharashtra,Akola,Barshitakli,Dharagiri,Gravely Clay,4.8,27.1,68.1,6.8,0.11,0.97,125.8,17.4,489.6,45,58.54,45,54.48,Needs Improvement
+33,P19,AP,Maharashtra,Akola,Barshitakli,Dharagiri,Gravely Clay,4.8,27.1,68.1,6.8,0.11,0.97,125.8,17.4,489.6,45,58.54,45,54.48,Needs Improvement
+34,P1,Ap_BW1_BW2_BW3_BW4,Maharashtra,Akola,Barshitakli,Dharagiri,Clay,21.5,29.2,49.3,8.3,0.18,1.57,140.0,24.1,458.3,65,59.0,65,60.8,Moderately Sustainable
+35,P1,Ap_BW1_BW2_BW3_BW4,Maharashtra,Akola,Barshitakli,Dharagiri,Clay,21.5,29.2,49.3,8.3,0.18,1.57,140.0,24.1,458.3,65,59.0,65,60.8,Moderately Sustainable
+36,P36,Ap_BC,Maharashtra,Akola,Barshitakli,Dharagiri,Gravely Clay,5.4,33.9,60.7,7.4,0.14,1.73,170.6,13.3,354.7,45,70.72,45,63.0,Moderately Sustainable
+39,P19,AP,Maharashtra,Akola,Barshitakli,Kasarkhed,Gravely Clay,4.8,27.1,68.1,6.8,0.11,0.97,125.8,17.4,489.6,45,58.54,45,54.48,Needs Improvement
+40,P19,AP,Maharashtra,Akola,Barshitakli,Kasarkhed,Gravely Clay,4.8,27.1,68.1,6.8,0.11,0.97,125.8,17.4,489.6,45,58.54,45,54.48,Needs Improvement
+41,P19,AP,Maharashtra,Akola,Barshitakli,Kasarkhed,Gravely Clay,4.8,27.1,68.1,6.8,0.11,0.97,125.8,17.4,489.6,45,58.54,45,54.48,Needs Improvement
+43,P27,Ap_BW_Bss1_Bss2,Maharashtra,Akola,Barshitakli,Kasarkhed,Clay,2.7,21.3,75.9,8.3,0.12,2.27,157.6,26.3,1248.6,65,61.51,65,62.56,Moderately Sustainable
+44,P27,Ap_BW_Bss1_Bss2,Maharashtra,Akola,Barshitakli,Kasarkhed,Clay,2.7,21.3,75.9,8.3,0.12,2.27,157.6,26.3,1248.6,65,61.51,65,62.56,Moderately Sustainable
+47,P34,Ap_BW1_BW2_Bk1_Bk2,Maharashtra,Akola,Barshitakli,Morhal,Clay,2.9,28.5,68.5,7.7,0.2,2.1,98.2,17.2,1077.9,65,56.81,65,59.27,Needs Improvement
+48,P23,Ap_BW,Maharashtra,Akola,Barshitakli,Morhal,Gravely Clay,4.8,24.3,70.9,7.1,0.12,0.73,163.5,35.0,546.6,45,67.45,45,60.71,Moderately Sustainable
+49,P19,AP,Maharashtra,Akola,Barshitakli,Morhal,Gravely Clay,4.8,27.1,68.1,6.8,0.11,0.97,125.8,17.4,489.6,45,58.54,45,54.48,Needs Improvement
+50,P19,AP,Maharashtra,Akola,Barshitakli,Morhal,Gravely Clay,4.8,27.1,68.1,6.8,0.11,0.97,125.8,17.4,489.6,45,58.54,45,54.48,Needs Improvement
+51,P19,AP,Maharashtra,Akola,Barshitakli,Morhal,Gravely Clay,4.8,27.1,68.1,6.8,0.11,0.97,125.8,17.4,489.6,45,58.54,45,54.48,Needs Improvement
+53,P19,AP,Maharashtra,Akola,Barshitakli,Morhal,Gravely Clay,4.8,27.1,68.1,6.8,0.11,0.97,125.8,17.4,489.6,45,58.54,45,54.48,Needs Improvement
+54,P8,Ap_BW1_BW2_BSS1_BSS2,Maharashtra,Akola,Barshitakli,Morhal,Clay,6.6,26.8,66.7,8.0,0.13,0.81,119.7,17.2,497.8,65,54.56,65,57.69,Needs Improvement
+55,P21,Ap_BW,Maharashtra,Akola,Barshitakli,Morhal,Gravely Clay,18.1,29.2,52.7,7.5,0.09,0.8,144.6,23.3,707.5,45,65.66,45,59.46,Needs Improvement
+57,P28,Ap_BW1_BW2_Bss,Maharashtra,Akola,Barshitakli,Chinchkhed Bk.,Clay,1.7,19.9,78.4,7.9,0.18,1.41,169.1,30.8,2337.8,65,66.16,65,65.81,Moderately Sustainable
+59,P19,AP,Maharashtra,Akola,Barshitakli,Chinchkhed Bk.,Gravely Clay,4.8,27.1,68.1,6.8,0.11,0.97,125.8,17.4,489.6,45,58.54,45,54.48,Needs Improvement
+60,P5,Ap_BW,Maharashtra,Akola,Barshitakli,Chinchkhed Bk.,Gravely Clay,11.9,20.1,68.0,7.8,0.09,0.98,143.8,39.7,509.0,45,63.29,45,57.8,Needs Improvement
+63,P19,AP,Maharashtra,Akola,Barshitakli,Dhakali,Gravely Clay,4.8,27.1,68.1,6.8,0.11,0.97,125.8,17.4,489.6,45,58.54,45,54.48,Needs Improvement
+64,P12,Ap_Bw,Maharashtra,Akola,Barshitakli,Dhakali,Clay,13.2,30.7,56.1,7.8,0.21,0.67,121.9,24.6,500.9,65,59.11,65,60.88,Moderately Sustainable
+65,P37,Ap_BW,Maharashtra,Akola,Barshitakli,Dhakali,Gravely Clay,12.6,21.3,66.1,7.2,0.11,1.19,178.3,14.6,102.8,45,61.98,45,56.89,Needs Improvement
+66,P17,Ap_BW,Maharashtra,Akola,Barshitakli,Dhakali,Gravely Clay,3.2,25.5,71.3,5.9,0.14,1.41,293.5,12.5,637.9,45,68.38,45,61.37,Moderately Sustainable
+67,P17,Ap_BW,Maharashtra,Akola,Barshitakli,Dhakali,Gravely Clay,3.2,25.5,71.3,5.9,0.14,1.41,293.5,12.5,637.9,45,68.38,45,61.37,Moderately Sustainable
+68,P17,Ap_BW,Maharashtra,Akola,Barshitakli,Dhakali,Gravely Clay,3.2,25.5,71.3,5.9,0.14,1.41,293.5,12.5,637.9,45,68.38,45,61.37,Moderately Sustainable
+69,P19,AP,Maharashtra,Akola,Barshitakli,Dhakali,Gravely Clay,4.8,27.1,68.1,6.8,0.11,0.97,125.8,17.4,489.6,45,58.54,45,54.48,Needs Improvement
+71,P19,AP,Maharashtra,Akola,Barshitakli,Dhakali,Gravely Clay,4.8,27.1,68.1,6.8,0.11,0.97,125.8,17.4,489.6,45,58.54,45,54.48,Needs Improvement
+72,P19,AP,Maharashtra,Akola,Barshitakli,Dhakali,Gravely Clay,4.8,27.1,68.1,6.8,0.11,0.97,125.8,17.4,489.6,45,58.54,45,54.48,Needs Improvement
+75,P37,Ap_BW,Maharashtra,Akola,Barshitakli,Dhakali,Gravely Clay,12.6,21.3,66.1,7.2,0.11,1.19,178.3,14.6,102.8,45,61.98,45,56.89,Needs Improvement
+76,P17,Ap_BW,Maharashtra,Akola,Barshitakli,Dhakali,Gravely Clay,3.2,25.5,71.3,5.9,0.14,1.41,293.5,12.5,637.9,45,68.38,45,61.37,Moderately Sustainable
+77,P17,Ap_BW,Maharashtra,Akola,Barshitakli,Dhakali,Gravely Clay,3.2,25.5,71.3,5.9,0.14,1.41,293.5,12.5,637.9,45,68.38,45,61.37,Moderately Sustainable
+78,P19,AP,Maharashtra,Akola,Barshitakli,Dhakali,Gravely Clay,4.8,27.1,68.1,6.8,0.11,0.97,125.8,17.4,489.6,45,58.54,45,54.48,Needs Improvement
+79,P19,AP,Maharashtra,Akola,Barshitakli,Dhakali,Gravely Clay,4.8,27.1,68.1,6.8,0.11,0.97,125.8,17.4,489.6,45,58.54,45,54.48,Needs Improvement
+80,P6,Ap_BW_BSS1_BSS2_BSS2,Maharashtra,Akola,Barshitakli,Dhakali,Clay,7.4,23.6,69.0,7.8,0.17,0.95,166.6,17.8,640.0,65,60.55,65,61.88,Moderately Sustainable
+81,P6,Ap_BW_BSS1_BSS2_BSS2,Maharashtra,Akola,Barshitakli,Dhakali,Clay,7.4,23.6,69.0,7.8,0.17,0.95,166.6,17.8,640.0,65,60.55,65,61.88,Moderately Sustainable
+82,P22,Ap_BW,Maharashtra,Akola,Barshitakli,Dhakali,Gravely Clay,22.8,24.6,52.6,6.8,0.88,1.24,210.6,21.9,640.0,45,73.82,45,65.17,Moderately Sustainable
+83,P12,Ap_Bw,Maharashtra,Akola,Barshitakli,Dhakali,Clay,13.2,30.7,56.1,7.8,0.21,0.67,121.9,24.6,500.9,65,59.11,65,60.88,Moderately Sustainable
+86,P17,Ap_BW,Maharashtra,Akola,Barshitakli,Sawarkhed,Gravely Clay,3.2,25.5,71.3,5.9,0.14,1.41,293.5,12.5,637.9,45,68.38,45,61.37,Moderately Sustainable
+87,P19,AP,Maharashtra,Akola,Barshitakli,Sawarkhed,Gravely Clay,4.8,27.1,68.1,6.8,0.11,0.97,125.8,17.4,489.6,45,58.54,45,54.48,Needs Improvement
+88,P25,Ap_BW_BW2_BSS1_BSS2,Maharashtra,Akola,Barshitakli,Sawarkhed,Clay,19.0,22.5,58.5,7.9,0.75,0.86,142.8,21.5,131.4,65,74.13,65,71.39,Moderately Sustainable
+89,P29,Ap_BC,Maharashtra,Akola,Barshitakli,Sawarkhed,Gravely Clay,17.0,29.4,53.6,6.7,0.66,1.02,167.7,16.4,356.7,45,73.62,45,65.03,Moderately Sustainable
+90,P17,Ap_BW,Maharashtra,Akola,Barshitakli,Sawarkhed,Gravely Clay,3.2,25.5,71.3,5.9,0.14,1.41,293.5,12.5,637.9,45,68.38,45,61.37,Moderately Sustainable
+91,P17,Ap_BW,Maharashtra,Akola,Barshitakli,Sawarkhed,Gravely Clay,3.2,25.5,71.3,5.9,0.14,1.41,293.5,12.5,637.9,45,68.38,45,61.37,Moderately Sustainable
+92,P17,Ap_BW,Maharashtra,Akola,Barshitakli,Sawarkhed,Gravely Clay,3.2,25.5,71.3,5.9,0.14,1.41,293.5,12.5,637.9,45,68.38,45,61.37,Moderately Sustainable
+93,P19,AP,Maharashtra,Akola,Barshitakli,Sawarkhed,Gravely Clay,4.8,27.1,68.1,6.8,0.11,0.97,125.8,17.4,489.6,45,58.54,45,54.48,Needs Improvement
+95,P29,Ap_BC,Maharashtra,Akola,Barshitakli,Sawarkhed,Gravely Clay,17.0,29.4,53.6,6.7,0.66,1.02,167.7,16.4,356.7,45,73.62,45,65.03,Moderately Sustainable
+96,P22,Ap_BW,Maharashtra,Akola,Barshitakli,Sawarkhed,Gravely Clay,22.8,24.6,52.6,6.8,0.88,1.24,210.6,21.9,640.0,45,73.82,45,65.17,Moderately Sustainable
+97,P25,Ap_BW_BW2_BSS1_BSS2,Maharashtra,Akola,Barshitakli,Sawarkhed,Clay,19.0,22.5,58.5,7.9,0.75,0.86,142.8,21.5,131.4,65,74.13,65,71.39,Moderately Sustainable
+98,P6,Ap_BW_BSS1_BSS2_BSS2,Maharashtra,Akola,Barshitakli,Dhakali,Clay,7.4,23.6,69.0,7.8,0.17,0.95,166.6,17.8,640.0,65,60.55,65,61.88,Moderately Sustainable
+99,P22,Ap_BW,Maharashtra,Akola,Barshitakli,Sawarkhed,Gravely Clay,22.8,24.6,52.6,6.8,0.88,1.24,210.6,21.9,640.0,45,73.82,45,65.17,Moderately Sustainable
+100,P25,Ap_BW_BW2_BSS1_BSS2,Maharashtra,Akola,Barshitakli,Sawarkhed,Clay,19.0,22.5,58.5,7.9,0.75,0.86,142.8,21.5,131.4,65,74.13,65,71.39,Moderately Sustainable
+101,P3,Ap_BW,Maharashtra,Akola,Barshitakli,Sawarkhed,Gravely Clay,14.7,29.2,56.0,7.2,0.98,0.92,184.8,57.6,768.2,45,70.4,45,62.78,Moderately Sustainable
+103,P10,Ap_BW,Maharashtra,Akola,Barshitakli,Morhal,Clay,10.8,26.5,62.7,8.0,0.22,1.37,138.3,25.0,1092.2,65,61.25,65,62.38,Moderately Sustainable
+104,P31,Ap_Bw,Maharashtra,Akola,Barshitakli,Morhal,Clay,5.8,27.1,67.1,8.0,0.14,0.8,167.9,30.1,1162.4,65,65.24,65,65.17,Moderately Sustainable
+105,P12,Ap_Bw,Maharashtra,Akola,Barshitakli,Morhal,Clay,13.2,30.7,56.1,7.8,0.21,0.67,121.9,24.6,500.9,65,59.11,65,60.88,Moderately Sustainable
+106,P32,Ap_BW_BSS1_BSS2_BSS3,Maharashtra,Akola,Barshitakli,Morhal,Clay,17.3,24.3,58.4,8.4,0.16,3.07,153.8,22.0,649.8,65,59.07,65,60.85,Moderately Sustainable
+107,P9,Ap_Bw,Maharashtra,Akola,Barshitakli,Ghota,Gravely Clay,11.4,26.8,61.8,7.1,0.15,0.9,104.5,13.2,224.0,45,68.69,45,61.58,Moderately Sustainable
+108,P5,Ap_BW,Maharashtra,Akola,Barshitakli,Chinchkhed Bk.,Gravely Clay,11.9,20.1,68.0,7.8,0.09,0.98,143.8,39.7,509.0,45,63.29,45,57.8,Needs Improvement
+109,P24,Ap_Bw,Maharashtra,Akola,Barshitakli,Morhal,Clay,4.1,36.4,59.5,7.7,0.17,0.89,80.3,29.1,1124.4,65,63.5,65,63.95,Moderately Sustainable
+110,P12,Ap_Bw,Maharashtra,Akola,Barshitakli,Morhal,Clay,13.2,30.7,56.1,7.8,0.21,0.67,121.9,24.6,500.9,65,59.11,65,60.88,Moderately Sustainable
+111,P35,Ap_BW,Maharashtra,Akola,Barshitakli,Morhal,Gravely Clay,4.8,35.3,60.0,8.1,0.1,2.61,142.0,22.6,554.4,45,60.32,45,55.72,Needs Improvement
