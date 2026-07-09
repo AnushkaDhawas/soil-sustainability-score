@@ -16,7 +16,7 @@ data/processed/*
 !data/processed/akola_soil_scored.csv
 
 # Trained model artifacts
-*.pkl
+#*.pkl
 *.joblib
 *.h5
 
