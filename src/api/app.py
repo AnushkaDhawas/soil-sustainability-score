@@ -1,10 +1,15 @@
 """
 Flask entry point for the Soil Sustainability Score API.
-
-Run with:  flask run   (after setting FLASK_APP=src/api/app.py in .env)
+Run with:  python app.py
 """
+import sys
+import os
 
-from flask import Flask, jsonify
+# Allow imports from the project root (so "src.scoring..." works)
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..")))
+
+from flask import Flask, jsonify, request
+from src.scoring.sss_calculator import SoilSample, calculate_sss
 
 app = Flask(__name__)
 
@@ -14,8 +19,22 @@ def health_check():
     return jsonify({"status": "ok"})
 
 
-# TODO: add /score endpoint that accepts soil parameters (pH, OC, N, P, K, EC,
-# texture) and returns the result of src.scoring.sss_calculator.calculate_sss
+@app.route("/score", methods=["POST"])
+def score():
+    data = request.get_json()
+
+    sample = SoilSample(
+        ph=data["ph"],
+        organic_carbon=data["organic_carbon"],
+        nitrogen=data["nitrogen"],
+        phosphorus=data["phosphorus"],
+        potassium=data["potassium"],
+        ec=data["ec"],
+        texture_score=data["texture_score"],
+    )
+
+    result = calculate_sss(sample)
+    return jsonify(result)
 
 
 if __name__ == "__main__":
