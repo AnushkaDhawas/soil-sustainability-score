@@ -35,6 +35,7 @@ data/processed/*
 # Outputs
 outputs/reports/*
 !outputs/reports/.gitkeep
+!outputs/reports/soil_sustainability_map.html
 
 # Logs
 *.log
